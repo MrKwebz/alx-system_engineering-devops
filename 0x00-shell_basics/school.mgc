@@ -1,2 +1,2 @@
-#!/bin/bash
-file welcome -name SCHOOL
+0 string SCHOOL School data
+!:mime School
